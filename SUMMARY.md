@@ -3,7 +3,7 @@
 * [简介](README.md)
 * [Install](install.md)
 * [实例](chapter1.md)
-* [Router](hashrouter.md)
+* [Router](router/README.md)
   * [HashRouter](router/HashRouter.md)
   * [BrowserRouter](router/BrowserRouter.md)
   * [MemoryRouter](router/MemoryRouter.md)
