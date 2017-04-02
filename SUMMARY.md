@@ -4,9 +4,9 @@
 * [Install](install.md)
 * [实例](chapter1.md)
 * [Router](hashrouter.md)
-  * HashRouter
-  * BrowserRouter
-  * MemoryRouter
+  * [HashRouter](router/HashRouter.md)
+  * [BrowserRouter](router/BrowserRouter.md)
+  * [MemoryRouter](router/MemoryRouter.md)
 * [Route](route.md)
   * [Route基础](route/ji-ben-shi-yong.md)
   * [Route属性](route/bao-liu-shu-xing.md)
