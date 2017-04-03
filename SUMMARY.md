@@ -1,7 +1,7 @@
 # Summary
 
 * [介绍](README.md)
-* [引入](Install.md)
+* [引入](Installed.md)
 * [基础使用](Basic.md)
 * [Router](router/README.md)
   * [HashRouter](router/HashRouter.md)
