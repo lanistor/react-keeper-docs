@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Install](Install.md)
+* [Install](Installed.md)
 * [Basic](Basic.md)
 * [Router](router/README.md)
   * [HashRouter](router/HashRouter.md)
